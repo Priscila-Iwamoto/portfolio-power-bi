@@ -1,42 +1,42 @@
-\# Olist Sales Analysis
+# Olist Sales Analysis
 
 
 
-!\[Olist Sales Analysis Dashboard](assets/olist-sales-analysis-dashboard.gif)
+![Olist Sales Analysis Dashboard](assets/olist-sales-analysis-dashboard.gif)
 
 
 
-\## 🎯 Objective
+## 🎯 Objective
 
 Analyze the sales performance of the Olist company.
 
 
 
-\## 📊 Key Metrics
+## 📊 Key Metrics
 
-\* Total revenue
+* Total revenue
 
-\* Average ticket
+* Average ticket
 
-\* Number of orders
+* Number of orders
 
-\* Average days to deliver
+* Average days to deliver
 
-\* Monthly sales revenue (comparison with same period last year)
+* Monthly sales revenue (comparison with same period last year)
 
-\* Payment type
+* Payment type
 
-\* Delivery on time vs. late delivery
+* Delivery on time vs. late delivery
 
-\* Top states
+* Top states
 
-\* Flop states
+* Flop states
 
-\* Top categories
+* Top categories
 
 
 
-\## 🔍 About the dashboard
+## 🔍 About the dashboard
 
 The database for this analysis has 8 cvs files and while doing the ETL and modeling process I've felt the need to create one more (d\_calendar). So it was used starschema for this model with 5 dimensions tables and 4 facts. 
 
