@@ -1,34 +1,34 @@
-\# F1 Analysis
+# F1 Analysis
 
 
 
-!\[F1 Analysis Dashboard](assets/f1-analysis-dashboard.gif)
+![F1 Analysis Dashboard](assets/f1-analysis-dashboard.gif)
 
 
 
-\## 🎯 Objective
+## 🎯 Objective
 
 Analyze the performance of the all time players of F1, such as the constructors and countries envolved.
 
 
 
-\## 📊 Key Metrics
+## 📊 Key Metrics
 
-\* No total of races
+* No total of races
 
-\* No total of circuits
+* No total of circuits
 
-\* No total of countries where F1 have been
+* No total of countries where F1 have been
 
-\* Drivers and titles (with drivers detail)
+* Drivers and titles (with drivers detail)
 
-\* Winners by nationality
+* Winners by nationality
 
-\* Drivers wins by constructors
+* Drivers wins by constructors
 
 
 
-\## 🔍 About the dashboard
+## 🔍 About the dashboard
 
 This dashboard was very fun for me to develop because I don't know nothing at all about F1 and it's metric, so it was a fun way to learn a little bit more about the rules of the game and also the players, maybe I'll even start to follow F1 a little bit more now 😅
 
