@@ -1,42 +1,42 @@
-\# Human Resources Analysis
+# Human Resources Analysis
 
 
 
-!\[Human Resources Analysis Dashboard](assets/human-resources-analysis-dashboard.gif)
+![Human Resources Analysis Dashboard](assets/human-resources-analysis-dashboard.gif)
 
 
 
-\## 🎯 Objective
+## 🎯 Objective
 
 Analyze workforce metrics such as male and female representation, average salary and metrics by department.
 
 
 
-\## 📊 Key Metrics
+## 📊 Key Metrics
 
-\* No of employees
+* No of employees
 
-\* Average age
+* Average age
 
-\* Average monthly salary
+* Average monthly salary
 
-\* Male and female proportion
+* Male and female proportion
 
-\* Department proportion
+* Department proportion
 
-\* Average salary by education level
+* Average salary by education level
 
-\* Average salary by gender
+* Average salary by gender
 
-\* Average salary by department
+* Average salary by department
 
-\* Average years of experience by department
+* Average years of experience by department
 
-\* Search by employee or filter by city
+* Search by employee or filter by city
 
 
 
-\## 🔍 About the dashboard
+## 🔍 About the dashboard
 
 This was a very simple dataset with just one table. I didn't find much trouble with wrong or missing information so I didn't have much work with this matter. I used the bookmark resource to have the possibility to hide the two filters (employee name and city). The main work here was in the design of the dashboard, my goal was to keep it clean and easy to read (that's why I choose to use a dark mode and soft colors) and to make the user experience easier.
 
