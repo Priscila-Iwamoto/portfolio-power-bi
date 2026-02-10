@@ -38,7 +38,7 @@ Analyze the sales performance of the Olist company.
 
 \## 🔍 About the dashboard
 
-The database for this analysis has 8 cvs files and while doing the ETL and modeling process I've felt the need to create one more (d\_calendar). So it was used starschema for this model with 5 dimensions tables and 4 facts.
+The database for this analysis has 8 cvs files but while doing the ETL and modeling process I've felt the need to create one more (d\_calendar) and one of the tables was useless to the dashboard, so it was deleted. Therefore, it was used starschema for this model with 5 dimensions tables and 4 facts.
 
 About DAX measures, I've created 8 different measures in order to have the analysis I needed, like for example, "AVG Days to Deliver", "Payments Same Period Last Year", "AVG Ticket" and others. I didn't need to create any calculated column, wich was great; I only use calculeted columns if they are indispensables because it contributes to good and fast dashboard performance.
 
@@ -59,6 +59,4 @@ A few of the DAX measures:
 !\[alt](assets/olist-avg-delivered-on-time.png)
 
 !\[alt](assets/olist-late-deliver.png)
-
-
 
