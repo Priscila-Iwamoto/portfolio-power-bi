@@ -42,11 +42,13 @@ About DAX and Power Query: I've created two calculated columns, the first one to
 
 Besides that, I've created another few columns to use as key in the relationships and I noticed that the database wasn't entirely correct, with missing information about a few races or eras. So I consulted the F1 oficial website to make sure I was delivering the right information but this limited the data I could show. 
 
+Bellow is the starschema model. Two of the tables wasn't necessary to the dashboard, since they weren't affecting the dashboard's performance, I simply hid them and didn't delete them in case this information were useful in the future.
+
 ![alt](assets/f1-analysis-starschema.png)
-Starschema model
-Two of the tables wasn't necessary to the dashboard, since they weren't affecting the dashboard's performance, I simply hid them and didn't delete them in case this information were useful in the future.
+
+
+One of the calculated columns to figure out wich era corresponded to wich year:
 
 ![alt](assets/f1-analysis-calculatedcolumn.png)
-One of the calculated columns to figure out wich era corresponded to wich year.
 
 

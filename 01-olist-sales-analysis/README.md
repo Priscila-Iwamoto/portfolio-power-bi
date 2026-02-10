@@ -44,3 +44,21 @@ About DAX measures, I've created 8 different measures in order to have the analy
 
 I particularly like to do sales analysis, is a confortable place for me and I it's always satisfying! I think that is very usefull to see the numbers by category, region and sales evolution through time so the company can have strategic decisions in order to increase profit and improve performance.
 
+
+
+Here bellow is the starschema:
+
+!\[alt](assets/olist-sales-analysis-starschema.png)
+
+
+
+A few of the DAX measures:
+
+!\[alt](assets/olist-avg-days-to-deliver.png)
+
+!\[alt](assets/olist-avg-delivered-on-time.png)
+
+!\[alt](assets/olist-late-deliver.png)
+
+
+
